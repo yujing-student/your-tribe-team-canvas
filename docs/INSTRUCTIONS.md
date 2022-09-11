@@ -1,11 +1,6 @@
-<!--
-De conventie voor naamgeving is sprintnaam-(sub)taaknaam
-Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
--->
+# Team Canvas
 
-# Naam
-
-Beschrijving van de leertaak
+Vul met jouw team dit canvas in om een goed vertrekpunt voor jouw teamproject te hebben.
 
 ## Context
 Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van de opdracht] die je [individueel, in team] uitvoert voor [opdrachtgever]
