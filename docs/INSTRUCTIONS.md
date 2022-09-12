@@ -10,7 +10,11 @@ In de talk S01W2-01-Team-Canvas wordt uitgelegd wat je moet doen.
 
 ## Doel van deze opdracht
 
-Samenwerken is erg moeilijk. Om er voor te zorgen dat je zo soepel mogelijk van start gaat is het handig 'de moeilijke vragen' vooraf te stellen. Zo zijn dingen waar rekening mee gehouden moet worden verhelderd nog voor lastige situaties ontstaan. Het FDND Team Canvas is een hulpmiddel bij het vormen van een nieuw project-team. Gebruik het élke keer als je een nieuwe opdracht met een nieuw team te lijf gaat.
+Samenwerken is niet makkelijk. 
+Om er voor te zorgen dat je zo soepel mogelijk van start gaat is het handig 'de moeilijke vragen' vooraf te stellen. 
+Zo worden dingen waar rekening mee gehouden moet worden al besproken voor er lastige situaties ontstaan. 
+Het FDND Team Canvas is een hulpmiddel bij het vormen van een nieuw project-team. 
+Gebruik het élke keer als je een nieuwe opdracht met een nieuw team gaat aanpakken.
 
 N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd teamwerk. Het blijft gedeelde inzet, afstemming en het nemen van verantwoording waar bergen mee worden verzet.
 
