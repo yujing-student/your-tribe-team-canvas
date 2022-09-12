@@ -15,8 +15,7 @@ Samenwerken is erg moeilijk. Om er voor te zorgen dat je zo soepel mogelijk van 
 N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd teamwerk. Het blijft gedeelde inzet, afstemming en het nemen van verantwoording waar bergen mee worden verzet.
 
 ## Werkwijze
-
-![opdracht](https://user-images.githubusercontent.com/140124/189590086-38e4af61-5e38-4d67-a376-426a6ef6fd3a.png)
+![opdracht](https://user-images.githubusercontent.com/140124/189592950-da2ca796-d49d-4588-8998-09ccef591dc9.png)
 
 Deze opdracht gaat over de [analysefase](#analyseren) van de DLC.
 
@@ -41,7 +40,7 @@ Waarden: Wat maakt ons gelukkig en tevreden? Wat maakt ons trots? Welke waarden 
 
 ##### Bronnen:
 - (Learn about the Team Canvas - engels)[http://theteamcanvas.com/learn/]
-- (Pro-tip: Een lijst met kernwaarden)[]
+- (Pro-tip: Een lijst met kernwaarden)[https://www.desteven.nl/leiderschapsontwikkeling/modern-leiderschap/kernwaarden]
 
 ## Criteria
 
