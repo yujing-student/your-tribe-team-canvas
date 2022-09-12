@@ -3,43 +3,54 @@
 Vul met jouw team dit canvas in om een goed vertrekpunt voor jouw teamproject te hebben.
 
 ## Context
-Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van de opdracht] die je [individueel, in team] uitvoert voor [opdrachtgever]
+
+Deze deeltaak hoort bij sprint 1 "Your Tribe". Deze opdracht ga je met jouw team uitvoeren.
+
+In de talk S01W2-01-Team-Canvas wordt uitgelegd wat je moet doen.
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
-beschrijf de taak in actieve taal: Je leert hoe...
+Samenwerken is erg moeilijk. Om er voor te zorgen dat je zo soepel mogelijk van start gaat is het handig 'de moeilijke vragen' vooraf te stellen. Zo zijn dingen waar rekening mee gehouden moet worden verhelderd nog voor lastige situaties ontstaan. Het FDND Team Canvas is een hulpmiddel bij het vormen van een nieuw project-team. Gebruik het élke keer als je een nieuwe opdracht met een nieuw team te lijf gaat.
+
+N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd teamwerk. Het blijft gedeelde inzet, afstemming en het nemen van verantwoording waar bergen mee worden verzet.
 
 ## Werkwijze
-<img width="1333" alt="Schermafbeelding 2022-09-12 om 08 46 42" src="https://user-images.githubusercontent.com/140124/189590086-38e4af61-5e38-4d67-a376-426a6ef6fd3a.png">
 
-*De werkwijze volgt de fasering van de DLC*
+![opdracht](https://user-images.githubusercontent.com/140124/189590086-38e4af61-5e38-4d67-a376-426a6ef6fd3a.png)
+
+Deze opdracht gaat over de [analysefase](#analyseren) van de DLC.
+
+### Analyseren
+
+In de analysefase creëer je overzicht. Als je met een nieuw team aan de slag gaat hoort het maken van afspraken daar bij.
+
+#### Aanpak
+
+Het FDND Team Canvas invullen.
+
+1. Begin met het individuele deel -
+Stel persoonlijke doelen op. Dit kan gaan om over kennis (je wilt iets leren), vaardigheden (je wilt iets kunnen) of houding/gedrag (je wilt iets doen). Geef jouw verwachtingen aan. Wil je 3x per week een standup? Wil je in de SAR werken? Wil je thuis werken? Waar ben jij bij gebaat.. In welke omstandigheid werk jij het prettigst?
+
+2. Bespreek in je team de individuele delen
+3. Vul vervolgens als team de andere vlakken in -
+Mensen en rollen: Benoem de specifieke rollen en taken van elk teamlid. Bespreek het belang van deze verdeling. Stel de verdeling bij als blijkt dat het niet werkt.
+Team doelen: Zijn helder en specifiek. Zijn verdeeld in korte- en lange termijn doelen. Zijn meetbaar. Worden geprioriteerd.
+Waarden: Wat maakt ons gelukkig en tevreden? Wat maakt ons trots? Welke waarden kiezen wij? Kunnen wij onze waarden prioriteren? Check het resultaat! Voelen we ons er goed bij?
 
 
-Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
-De development lifecycle kent de volgende stappen:
 
-1. Analyseren - bijvoorbeeld: grip krijgen op een taak door gesprekken met een opdrachtgever, schrijven van een debriefing, maken van een todo lijst, inventarisatie van bestaande informatie, overzicht creëren, plannen, definition of done etc.
-2. Ontwerpen - bijvoorbeeld: het maken van idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
-3. Bouwen - bijvoorbeeld: toepassen van webtechnologie (HTML, CSS, JS), gebruik van tooling, werken volgens conventies en wetgeving, documenteren en bijhouden van een changelog.
-4. Integreren - bijvoorbeeld: publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand systeem, ftp-en.
-5. Testen - bijvoorbeeld: Unit testing (TDD), System test, User test, device lab test, A\B testing.
-
-### Aanpak
-1. Kies een user story uit de backlog van het project waar je aan gaat werken. De projecten staan bij [FDND Agency](https://github.com/fdnd-agency).  
-2. Fork de leertaak
-3. Hou je proces bij in de Wiki van de geforkte repository
-4. En schrijf een goede readme
+##### Bronnen:
+- (Learn about the Team Canvas - engels)[http://theteamcanvas.com/learn/]
+- (Pro-tip: Een lijst met kernwaarden)[]
 
 ## Criteria
 
-Focus sprint # - De focus in deze sprint ligt op ...
+Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
 
-Voor deze leertaak gelden de gedragscriteria voor sprint #: 
-...
+Deze deeltaak hoort bij het gedragscriterium:
 
+- Je werkt in teams, laat je hierbij begeleiden en geeft feedback aan teamleden.
 
+Deze opdracht is done als:
 
-
-
-
+- [ ] Je hebt het canvas ingevuld en toegevoegd aan de wiki van de repository waar jullie in samenwerken.
