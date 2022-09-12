@@ -11,7 +11,7 @@ Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van
 beschrijf de taak in actieve taal: Je leert hoe...
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
+<img width="1333" alt="Schermafbeelding 2022-09-12 om 08 46 42" src="https://user-images.githubusercontent.com/140124/189590086-38e4af61-5e38-4d67-a376-426a6ef6fd3a.png">
 
 *De werkwijze volgt de fasering van de DLC*
 
