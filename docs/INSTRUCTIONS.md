@@ -8,6 +8,9 @@ Deze deeltaak hoort bij sprint 1 "Your Tribe". Deze opdracht ga je met jouw team
 
 In de talk S01W2-01-Team-Canvas wordt uitgelegd wat je moet doen.
 
+Deze deeltaak hoor bij de leertaak:
+- [Your Tribe - Squad Page](https://github.com/fdnd-task/your-tribe-squad-page)
+
 ## Doel van deze opdracht
 
 Samenwerken is niet makkelijk. 
