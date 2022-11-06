@@ -55,7 +55,7 @@ Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenw
 
 Deze deeltaak hoort bij het gedragscriterium:
 
-- Je werkt in teams, laat je hierbij begeleiden en geeft feedback aan teamleden.
+- Samenwerken: Je werkt in teams, laat je hierbij begeleiden en geeft feedback aan teamleden.
 
 Deze opdracht is done als:
 
