@@ -46,8 +46,8 @@ Waarden: Wat maakt ons gelukkig en tevreden? Wat maakt ons trots? Welke waarden 
 
 
 ##### Bronnen:
-- (Learn about the Team Canvas - engels)[http://theteamcanvas.com/learn/]
-- (Pro-tip: Een lijst met kernwaarden)[https://www.desteven.nl/leiderschapsontwikkeling/modern-leiderschap/kernwaarden]
+- [Learn about the Team Canvas - engels](http://theteamcanvas.com/learn/)
+- [Pro-tip: Een lijst met kernwaarden](https://www.desteven.nl/leiderschapsontwikkeling/modern-leiderschap/kernwaarden)
 
 ## Criteria
 
