@@ -49,13 +49,9 @@ Waarden: Wat maakt ons gelukkig en tevreden? Wat maakt ons trots? Welke waarden 
 - [Learn about the Team Canvas - engels](http://theteamcanvas.com/learn/)
 - [Pro-tip: Een lijst met kernwaarden](https://www.desteven.nl/leiderschapsontwikkeling/modern-leiderschap/kernwaarden)
 
-## Criteria
+## Definition of Done
 
 Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
-
-Deze deeltaak hoort bij het gedragscriterium:
-
-- Samenwerken: Je werkt in teams, laat je hierbij begeleiden en geeft feedback aan teamleden.
 
 Deze opdracht is done als:
 
