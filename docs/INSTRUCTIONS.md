@@ -51,8 +51,6 @@ Waarden: Wat maakt ons gelukkig en tevreden? Wat maakt ons trots? Welke waarden 
 
 ## Definition of Done
 
-Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
-
 Deze opdracht is done als:
 
 - [ ] Je hebt het canvas ingevuld en toegevoegd aan de wiki van de repository waar jullie in samenwerken.
