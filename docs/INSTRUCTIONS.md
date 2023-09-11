@@ -22,7 +22,7 @@ Gebruik het élke keer als je een nieuwe opdracht met een nieuw team gaat aanpak
 N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd teamwerk. Het blijft gedeelde inzet, afstemming en het nemen van verantwoording waar bergen mee worden verzet.
 
 ## Werkwijze
-![opdracht](https://user-images.githubusercontent.com/140124/189592950-da2ca796-d49d-4588-8998-09ccef591dc9.png)
+![opdracht](https://github.com/fdnd-task/your-tribe-team-canvas/assets/685870/368449b7-18f5-42b5-884a-16fd2f0c6960)
 
 Deze opdracht gaat over de [analysefase](#analyseren) van de DLC.
 
