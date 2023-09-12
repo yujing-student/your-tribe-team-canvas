@@ -46,7 +46,7 @@ Waarden: Wat maakt ons gelukkig en tevreden? Wat maakt ons trots? Welke waarden 
 
 
 ##### Bronnen:
-- [the Team Canvas - engels](http://theteamcanvas.com/learn/)
+- [the Team Canvas (engels)](http://theteamcanvas.com/learn/)
 - [Pro-tip: Een lijst met kernwaarden](https://www.desteven.nl/leiderschapsontwikkeling/modern-leiderschap/kernwaarden)
 
 ## Definition of Done
