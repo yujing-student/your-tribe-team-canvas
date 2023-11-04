@@ -2,7 +2,7 @@
 
 # Team Canvas
 
-Vul met jouw team een canvas in om een goed vertrekpunt voor jouw teamproject te hebben.
+zie de link naar het teamcanvas https://github.com/yujing-student/your-tribe-squad-page/wiki/1-Analyse#teamcanvas
 
 ## Licentie
 
